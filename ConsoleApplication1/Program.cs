@@ -19,11 +19,9 @@ namespace ConsoleApplication1
           Console.WriteLine("yakup kaman");
                 Console.WriteLine("yakup kaman"); Console.WriteLine("yakup kaman");
             }
-
-
+            Console.WriteLine("yakup kaman");
             Console.ReadKey();
-
-
+            Console.WriteLine("yakup kaman");
         }
 
     }
