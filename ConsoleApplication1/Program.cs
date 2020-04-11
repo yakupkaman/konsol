@@ -11,20 +11,16 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-           
 
-
-         
-
-            Console.ReadKey();
-   for (int i = 0; i < 10; i++)
-            {
-          Console.WriteLine("yakup kaman");
-                Console.WriteLine("yakup kaman"); Console.WriteLine("yakup kaman");
-            }
-
+            selamla();
+            Console.Read();
 
         }
 
+       static void selamla()
+        {
+
+            Console.WriteLine("selam adaf");
+        }
     }
 }
